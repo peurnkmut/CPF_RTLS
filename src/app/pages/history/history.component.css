@@ -1,0 +1,19 @@
+.mat-card-history{
+    width: 30%;
+    max-width: 50%;
+     margin: 10px 20px;
+}
+.mat-card{
+    display: flex;
+    justify-content:center;
+}
+.history-text-main{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+.history-button-container{
+    display: flex;
+    justify-content: center;
+
+
+}
